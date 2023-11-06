@@ -1,4 +1,4 @@
-![image](https://github.com/juandi0511/Turbo-Race---Car-game/assets/150086305/43779aea-8c35-454f-95fd-fef7aa8079ff)# Turbo-Race---Car-game
+#Turbo-Race---Car-game
 Laboratorio #2 - Algoritmia y Programación 2 - Universidad del Norte
 🚀 -- TURBO RACE -- 🚀
 BIENVENIDO A TURBO RACE!!!
