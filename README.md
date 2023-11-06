@@ -24,9 +24,11 @@ Este es un videojuego enfocado en ver que tan bueno eres  esquivando carros mien
 ➰ --- CARROS UTILIZADOS --- ➰
 
 - Usuario 😇:
+  
 ![image](https://github.com/juandi0511/Turbo-Race---Car-game/assets/150086305/d03cd3b0-4cb5-48bf-8556-2fbf8be967ee)
 
 - Rivales 😡:
+  
 ![image](https://github.com/juandi0511/Turbo-Race---Car-game/assets/150086305/992f9dd7-32f4-4551-9060-9c4ed73af67f)
 
 ![image](https://github.com/juandi0511/Turbo-Race---Car-game/assets/150086305/5761ad90-d9a8-4fe3-b9a5-2ff651781421)
@@ -128,9 +130,7 @@ lenguaje de programación Java.
 ➰ --- AUTORES --- ➰
 La creación de este proyecto fue llevada a cabo por:
 
-Isabella Bolívar Guerrero.
-Juan Diego Palacios Pacheco.
-Oscar Andrés Gil Vergara.
+Isabella Bolívar Guerrero, Juan Diego Palacios Pacheco y Oscar Andrés Gil Vergara.
 
 ➰ --- DUDAS SOBRE EL JUEGO --- ➰
 
