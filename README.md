@@ -1,5 +1,4 @@
-#Turbo-Race---Car-game
-Laboratorio #2 - Algoritmia y Programación 2 - Universidad del Norte
+
 🚀 -- TURBO RACE -- 🚀
 BIENVENIDO A TURBO RACE!!!
 Este es un juego en el que demostrarás ser el mejor esquivando carros.
