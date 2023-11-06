@@ -66,11 +66,11 @@ A continuación podrás visualizar toda la información del juego:
 
 ![image](https://github.com/juandi0511/Turbo-Race---Car-game/assets/150086305/70d25fa7-3de3-4ba7-8e09-d20722bc3f22)
 
-https://depositphotos.com/es/vector/funny-cartoon-superhero-elements-crash-boom-pow-bang-wow-flight-424406154.html 
+https://depositphotos.com/es/vector/funny-cartoon-superhero-elements-crash-boom-pow-bang-wow-flight-424406154.html (Imagen de choque)
 
-https://cdn.pnghd.pics/data/911/win-png-7.png 
+https://cdn.pnghd.pics/data/911/win-png-7.png (Imagen al ganar)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgame%2Bover&psig=AOvVaw09hdKb4WZtJmhTtItfCScC&ust=1698804117395000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi0muGYn4IDFQAAAAAdAAAAABAE 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgame%2Bover&psig=AOvVaw09hdKb4WZtJmhTtItfCScC&ust=1698804117395000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi0muGYn4IDFQAAAAAdAAAAABAE (Imagen de game over)
 
 Sonido para el lobby: https://youtu.be/X4vZ-l76Jqo 
 
